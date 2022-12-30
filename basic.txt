@@ -1,0 +1,13 @@
+modules:
+
+http-for create server
+fs-file system-for file handling
+os-operating system-for cpu info
+
+express_js:
+commands:
+create folder and type
+
+ npm init -y
+npm install express --save
+
